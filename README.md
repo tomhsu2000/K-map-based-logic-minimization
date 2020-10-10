@@ -1,0 +1,1 @@
+# K-map-based-logic-minimization
